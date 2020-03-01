@@ -2,4 +2,5 @@
 
 Structure
 
-- data type 
+- data type class
+  - insertion
