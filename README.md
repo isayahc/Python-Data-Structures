@@ -4,3 +4,5 @@ Structure
 
 - data type class
   - insertion
+  - deletion 
+  - traversal 
